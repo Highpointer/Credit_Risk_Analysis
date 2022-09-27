@@ -8,20 +8,15 @@ This section presents an analysis of each of the following algorithms:
 #### SMOTE Oversampling</p>
 #### Undersampling with ClusterCentroids algorithm</p>
 
-Below are the results of each of the algorithms, showing the following results:
+Below are screenshots of each of the algorithms, showing the following results:
 
-##### Accuracy score
-##### Confusion matrix 
-##### Imbalanced classification report
+#### Accuracy score (7.5 points)
+#### Confusion matrix (7.5 points)
+#### Imbalanced classification report (15 points)
 
 ![Naive_Random_Oversampling.png](Resources/Naive_Random_Oversampling.png)
-
-#### SMOTE Oversampling
 ![SMOTE_Oversampling.png](Resources/SMOTE_Oversampling.png)
-
-#### Undersampling
 ![Undersampling.png](Resources/Undersampling.png)
-
 
 The report should contain the following:
 
