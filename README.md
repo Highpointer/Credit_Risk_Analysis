@@ -45,9 +45,10 @@ Ensemble classifiers include the following:
 
 Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
+Here is a table showing the balanced accuracy scores of each model:
+![Accuracy_Score_Table.png](Resources/Accuracy_Score_Table.png)
+
 Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
 ## Summary of the results (2 points)
 ## Recommendation of which model to use (3 points)
-
-![Naive_Random_Oversampling.png](Resources/Naive_Random_Oversampling.png)
