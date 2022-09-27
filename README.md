@@ -14,9 +14,9 @@ Below are screenshots showing the following results of each of the algorithms:
 #### Confusion matrix (7.5 points)
 #### Imbalanced classification report (15 points)
 
-![Naive_Random_Oversampling.png](Resources/Naive_Random_Oversampling.png)
-![SMOTE_Oversampling.png](Resources/SMOTE_Oversampling.png)
-![Undersampling.png](Resources/Undersampling.png)
+![Naive_Random_Oversampling.png](Resources/Naive_Random_Oversampling_2.png)
+![SMOTE_Oversampling.png](Resources/SMOTE_Oversampling_2.png)
+![Undersampling.png](Resources/Undersampling_2.png)
 
 The report should contain the following:
 
