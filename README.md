@@ -1,6 +1,6 @@
 # Credit Risk Analysis
 
-### Deliverable 1 
+### Deliverable 1: Use Resampling Models to Predict Credit Risk  
 
 This section presents an analysis of each of the following algorithms:
 
