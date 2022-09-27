@@ -9,7 +9,6 @@ This section presents an analysis of each of the following algorithms:
 #### Undersampling with ClusterCentroids algorithm</p>
 
 Below are screenshots showing the following results of each of the algorithms:
-
 #### Naïve Random Oversampling: Accuracy Score, Confusion Matrix, and Imbalanced Classification Report
 ![Naive_Random_Oversampling.png](Resources/Naive_Random_Oversampling_2.png)
 #### SMOTE Oversampling: Accuracy Score, Confusion Matrix, and Imbalanced Classification Report
@@ -19,7 +18,9 @@ Below are screenshots showing the following results of each of the algorithms:
 
 ### Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
 
-This section presents and analysis of the <b>SMOTEEN</b> algorithm. 
+This section presents an analysis of the <b>SMOTEEN</b> algorithm. Below is a screenshot of the results:
+#### Combination_(Over_and_Under)_Sampling: Accuracy Score, Confusion Matrix, and Imbalanced Classification Report
+![Combination_(Over_and_Under)_Sampling.png](Resources/Combination_(Over_and_Under)_Sampling_2.png)
 
 ### Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
