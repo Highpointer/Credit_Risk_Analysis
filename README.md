@@ -8,7 +8,7 @@ This section presents an analysis of each of the following algorithms:
 #### SMOTE Oversampling</p>
 #### Undersampling with ClusterCentroids algorithm</p>
 
-Below are screenshots of each of the algorithms, showing the following results:
+Below are screenshots showing the following results of each of the algorithms:
 
 #### Accuracy score (7.5 points)
 #### Confusion matrix (7.5 points)
