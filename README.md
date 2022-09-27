@@ -1,4 +1,4 @@
-# Credit Risk Analysis (2 points for title, with multiple sections)
+# Credit Risk Analysis
 
 ### Deliverable 1 
 
