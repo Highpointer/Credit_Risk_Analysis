@@ -4,7 +4,7 @@
 This section presents an analysis of each of the following algorithms:
 #### ⚫ Naïve Random Oversampling
 #### ⚫ SMOTE Oversampling
-#### ⚫ Undersampling with ClusterCentroids algorithm
+#### ⚫ Undersampling with ClusterCentroids
 Below are screenshots showing the following results of each of the algorithms:
 #### Naïve Random Oversampling: Accuracy Score, Confusion Matrix, and Imbalanced Classification Report
 ![Naive_Random_Oversampling.png](Resources/Naive_Random_Oversampling_2.png)
@@ -18,8 +18,8 @@ This section presents an analysis of the Combination (Over and Under) Sampling a
 ![Combination_(Over_and_Under)_Sampling.png](Resources/Combination_(Over_and_Under)_Sampling_2.png)
 ### Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 This section presents an analysis of each of the following ensemble classifiers:
-#### Balanced Random Forest Classifier
-#### Easy Ensemble AdaBoost Classifier
+#### ⚫ Balanced Random Forest Classifier
+#### ⚫ Easy Ensemble AdaBoost Classifier
 Below are screenshots showing the following results of each of the algorithms:
 #### Balanced Random Forest Classifier: Accuracy Score, Confusion Matrix, and Imbalanced Classification Report
 ![Balanced_Random_Forest_Classifier.png](Resources/Balanced_Random_Forest_Classifier_2.png)
@@ -33,15 +33,15 @@ The purpose of this analysis is to evaluate several machine learning models by u
 
 Resampling models include the following:
 
-#### Naïve Random Oversampling
-#### SMOTE Oversampling
-#### Undersampling
-#### Combination (Over and Under) Sampling, a.k.a. SMOTEENN
+#### ⚫ Naïve Random Oversampling
+#### ⚫ SMOTE Oversampling
+#### ⚫ Undersampling with ClusterCentroids
+#### ⚫ Combination (Over and Under) Sampling, a.k.a. SMOTEENN
 
 Ensemble classifiers include the following:
 
-#### Balanced Random Forest Classifier
-#### Easy Ensemble AdaBoost Classifier
+#### ⚫ Balanced Random Forest Classifier
+#### ⚫ Easy Ensemble AdaBoost Classifier
 
 Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
