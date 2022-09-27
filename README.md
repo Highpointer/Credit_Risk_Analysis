@@ -12,9 +12,9 @@ Below are screenshots showing the following results of each of the algorithms:
 
 #### Naïve Random Oversampling: Accuracy Score, Confusion Matrix, and Imbalanced Classification Report
 ![Naive_Random_Oversampling.png](Resources/Naive_Random_Oversampling_2.png)
-##### SMOTE Oversampling: Accuracy Score, Confusion Matrix, and Imbalanced Classification Report
+#### SMOTE Oversampling: Accuracy Score, Confusion Matrix, and Imbalanced Classification Report
 ![SMOTE_Oversampling.png](Resources/SMOTE_Oversampling_2.png)
-##### Undersampling with ClusterCentroids algorithm: Accuracy Score, Confusion Matrix, and Imbalanced Classification Report
+#### Undersampling with ClusterCentroids: Accuracy Score, Confusion Matrix, and Imbalanced Classification Report
 ![Undersampling.png](Resources/Undersampling_2.png)
 
 The report should contain the following:
