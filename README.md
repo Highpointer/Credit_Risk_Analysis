@@ -17,7 +17,11 @@ Below are screenshots showing the following results of each of the algorithms:
 #### Undersampling with ClusterCentroids: Accuracy Score, Confusion Matrix, and Imbalanced Classification Report
 ![Undersampling.png](Resources/Undersampling_2.png)
 
-The report should contain the following:
+### Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
+
+This section presents and analysis of the SMOTEEN algorithm. 
+
+### Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
 ## Overview of the analysis: Explain the purpose of this analysis (2 points)
 
