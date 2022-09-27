@@ -15,14 +15,23 @@ Below are screenshots showing the following results of each of the algorithms:
 ![SMOTE_Oversampling.png](Resources/SMOTE_Oversampling_2.png)
 #### Undersampling with ClusterCentroids: Accuracy Score, Confusion Matrix, and Imbalanced Classification Report
 ![Undersampling.png](Resources/Undersampling_2.png)
-
 ### Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
-
-This section presents an analysis of the <b>SMOTEEN</b> algorithm. Below is a screenshot of the results:
-#### Combination_(Over_and_Under)_Sampling: Accuracy Score, Confusion Matrix, and Imbalanced Classification Report
+This section presents an analysis of the <b>SMOTEENN</b> algorithm. Below is a screenshot of the results:
+#### Combination (Over and Under) Sampling: Accuracy Score, Confusion Matrix, and Imbalanced Classification Report
 ![Combination_(Over_and_Under)_Sampling.png](Resources/Combination_(Over_and_Under)_Sampling_2.png)
-
 ### Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
+This section presents an analysis of each of the following ensemble classifiers:
+
+#### Balanced Random Forest Classifier</p>
+#### Easy Ensemble AdaBoost Classifier</p>
+
+Below are screenshots showing the following results of each of the algorithms:
+#### Balanced Random Forest Classifier: Accuracy Score, Confusion Matrix, and Imbalanced Classification Report
+![Balanced_Random_Forest_Classifier.png](Resources/Balanced_Random_Forest_Classifier_2.png)
+#### Features sorted in descending order by feature importance
+![Balanced_Random_Forest_Classifier_sorted.png](Resources/Balanced_Random_Forest_Classifier_sorted_2.png)
+#### Easy Ensemble AdaBoost Classifier: Accuracy Score, Confusion Matrix, and Imbalanced Classification Report
+![Easy Ensemble AdaBoost Classifier.png](Resources/Easy_Ensemble_AdaBoost_Classifier.png)
 
 ## Overview of the analysis: Explain the purpose of this analysis (2 points)
 
