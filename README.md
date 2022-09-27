@@ -4,11 +4,16 @@
 
 For each of the following algorithms, the following are presented:
 
-Naïve Random Oversampling</p>
-SMOTE Oversampling</p>
-Undersampling with CLusterCentroids algorithm</p>
+##### Naïve Random Oversampling</p>
+##### SMOTE Oversampling</p>
+##### Undersampling with CLusterCentroids algorithm</p>
 
-#### Naïve Random Oversampling
+Below are the results of each of the algorithms, showing the following:
+
+####### Accuracy score
+####### Confusion matrix 
+####### Imbalanced classification report
+
 ![Naive_Random_Oversampling.png](Resources/Naive_Random_Oversampling.png)
 
 #### SMOTE Oversampling
