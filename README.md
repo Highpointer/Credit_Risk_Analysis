@@ -29,14 +29,19 @@ Below are screenshots showing the following results of each of the algorithms:
 ![Easy Ensemble AdaBoost Classifier.png](Resources/Easy_Ensemble_AdaBoost_Classifier.png)
 ### Deliverable 4: Written Report on the Credit Risk Analysis
 
-(4 points) The purpose of this analysis is to evaluate several machine learning models by using resampling to determine which models are best at predicting credit risk.
+The purpose of this analysis is to evaluate several machine learning models by using resampling models and ensemble classifiers to determine which models are best at predicting credit risk.
 
-### The models include the following:
+Resampling models include the following:
 
-Naïve Random Oversampling</p>
-SMOTE Oversampling</p>
-Undersampling</p>
-Combination (Over and Under) Sampling</p>
+#### Naïve Random Oversampling
+#### SMOTE Oversampling
+#### Undersampling
+#### Combination (Over and Under) Sampling, a.k.a. SMOTEENN
+
+Ensemble classifiers include the following:
+
+#### Balanced Random Forest Classifier
+#### Easy Ensemble AdaBoost Classifier
 
 Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
