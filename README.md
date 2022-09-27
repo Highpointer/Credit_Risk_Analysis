@@ -2,9 +2,9 @@
 
 ### Deliverable 1: Use Resampling Models to Predict Credit Risk  
 This section presents an analysis of each of the following algorithms:
-#### Naïve Random Oversampling
-#### SMOTE Oversampling
-#### Undersampling with ClusterCentroids algorithm
+#### ⚫ Naïve Random Oversampling
+#### ⚫ SMOTE Oversampling
+#### ⚫ Undersampling with ClusterCentroids algorithm
 Below are screenshots showing the following results of each of the algorithms:
 #### Naïve Random Oversampling: Accuracy Score, Confusion Matrix, and Imbalanced Classification Report
 ![Naive_Random_Oversampling.png](Resources/Naive_Random_Oversampling_2.png)
