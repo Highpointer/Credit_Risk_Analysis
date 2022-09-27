@@ -8,10 +8,11 @@ The report should contain the following:
 
 ### The models include the following:
 
-Naïve Random Oversampling
-SMOTE Oversampling
-Undersampling
-Combination (Over and Under) Sampling
+Naïve Random Oversampling</p>
+![Naive_Random_Oversampling.png](Resources/Naive_Random_Oversampling.png)
+SMOTE Oversampling</p>
+Undersampling</p>
+Combination (Over and Under) Sampling</p>
 
 Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
