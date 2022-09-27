@@ -1,8 +1,8 @@
 # Credit Risk Analysis (2 points for title, with multiple sections)
 
-### Deliverable 1 Requirements
+### Deliverable 1 
 
-For each of the following algorithms, the following are presented:
+This section presents an analysis of each of the following algorithms:
 
 #### Naïve Random Oversampling</p>
 #### SMOTE Oversampling</p>
@@ -10,9 +10,9 @@ For each of the following algorithms, the following are presented:
 
 Below are the results of each of the algorithms, showing the following results:
 
-###### Accuracy score
-###### Confusion matrix 
-###### Imbalanced classification report
+##### Accuracy score
+##### Confusion matrix 
+##### Imbalanced classification report
 
 ![Naive_Random_Oversampling.png](Resources/Naive_Random_Oversampling.png)
 
