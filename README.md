@@ -48,6 +48,7 @@ Results: Using bulleted lists, describe the balanced accuracy scores and the pre
 Here is a table showing the balanced accuracy scores of each model, or simply the percentage of predictions that are correct
 
 ![Accuracy_Score_Table.png](Resources/Accuracy_Score_Table.png)
+
 The Easy Ensemble AdaBoost Classifer achieved the best results, with an accuracy score of 92.6%. The other ensemble classifier, Balanced Random Forest, was next with a 78.8% accuracy score. Undersampling with ClusterCentroids achieved the worst results at 51.8%. The two oversampling algorithms, Naïve Random and SMOTE, were both in the middle of the range at a little over 65%, while SMOTEEENN faired slightly worse at just under 64%.
 
 Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
