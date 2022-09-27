@@ -19,7 +19,7 @@ Below are screenshots showing the following results of each of the algorithms:
 
 ### Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
 
-This section presents and analysis of the SMOTEEN algorithm. 
+This section presents and analysis of the <b>SMOTEEN</b> algorithm. 
 
 ### Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
