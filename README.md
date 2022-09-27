@@ -10,11 +10,7 @@ This section presents an analysis of each of the following algorithms:
 
 Below are screenshots showing the following results of each of the algorithms:
 
-##### Accuracy score (7.5 points)
-##### Confusion matrix (7.5 points)
-##### Imbalanced classification report (15 points)
-
-##### Naïve Random Oversampling
+##### Naïve Random Oversampling: Accuracy Score, Confusion Matrix, and Imbalanced Classification Report
 ![Naive_Random_Oversampling.png](Resources/Naive_Random_Oversampling_2.png)
 ##### SMOTE Oversampling
 ![SMOTE_Oversampling.png](Resources/SMOTE_Oversampling_2.png)
