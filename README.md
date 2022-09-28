@@ -54,6 +54,10 @@ The Easy Ensemble AdaBoost Classifer achieved the best results, with an accuracy
 Here is a comparision of the confusion matrices for each of the models:
 
 ![Confusion_Matrices.png](Resources/Confusion_Matrices.png)
+• TP: True Positive
+• FN: False Negative
+• FP: False Positive
+• TN: True Negative
 
 Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
