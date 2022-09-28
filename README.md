@@ -54,6 +54,7 @@ The Easy Ensemble AdaBoost Classifer achieved the best results, with an accuracy
 Here is a comparision of the confusion matrices for each of the models:
 
 ![Confusion_Matrices.png](Resources/Confusion_Matrices.png)
+
 • TP: True Positive
 • FN: False Negative
 • FP: False Positive
