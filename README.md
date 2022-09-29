@@ -73,8 +73,10 @@ Here is a comparision of the average metrics from each of the imbalanced classif
 
 The average precision score for all models was 99%. This was because the number of high-risk credit applications, relative to the number of low-risk credit applications, was small. The significant differences between the models appeared in the other metrics.  
 
-The two ensemble classifiers achieved the best results in the majority of other metrics, including recall, specificity, F1, geometric mean, and index balanced accuracy (ipa). The metrics show that the undersampling model acheived the worst results among the six models. The Naïve Random, SMOTE, and SMOTEENN models achieved results among these metrics that were in the middle between the ensemble classifers and undersampling model.
+The two ensemble classifiers achieved the best results in the majority of other metrics, including recall, specificity, F1, geometric mean, and index balanced accuracy (ipa). The metrics show that the undersampling model achieved the worst results among the six models. The Naïve Random, SMOTE, and SMOTEENN models achieved results among these metrics that were in the middle between the ensemble classifers and the undersampling model.
 
 ## Recommendation of which model to use
 
-The Easy Ensemble AdaBoost Classifier achieved the best results overall. 
+The Easy Ensemble AdaBoost Classifier achieved the best results overall. It had the highest balanced accuracy score and presented the best results in its confusion matrix and imbalanced classification report. 
+
+Based on these results, we recommend using the <b>Easy Ensemble AdaBoost Classifier</b> mode.
