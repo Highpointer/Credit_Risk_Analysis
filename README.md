@@ -79,4 +79,4 @@ The two ensemble classifiers achieved the best results in the majority of other 
 
 The Easy Ensemble AdaBoost Classifier achieved the best results overall. It had the highest balanced accuracy score and presented the best results in its confusion matrix and imbalanced classification report. 
 
-Based on these results, we recommend using the <b>Easy Ensemble AdaBoost Classifier</b> mode.
+Based on these results, we recommend using the <b>Easy Ensemble AdaBoost Classifier</b> model.
