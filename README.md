@@ -63,6 +63,8 @@ Here is a comparision of the confusion matrices for each of the models:
 
 • TN: True Negative
 
+The data from the confusion matrices show that the two ensemble classifiers produced the smallest number of false diagnoses, with Easy Ensemble AdaBoost classifier producing 953 false positives and only 8 false negatives, for 961 false diagnoses overall. In contrast, the undersampling algorithm producted 9,266 false diagnoses oveall, with 9,229 being false negatives.
+
 Here is a comparision of the average metrics from each of the imbalanced classification reports for each of the six models:
 
 ![Average_Metrics.png](Resources/Average_Metrics.png)
