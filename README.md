@@ -43,7 +43,7 @@ Ensemble classifiers include the following:
 #### ⚫ Balanced Random Forest Classifier
 #### ⚫ Easy Ensemble AdaBoost Classifier
 
-Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+This portion of the report presents balanced accuracy scores and the precision and recall scores of all six machine learning models, with screenshots of of the outputs to support the results.
 
 Here is a table showing the balanced accuracy scores of each model, or simply the percentage of predictions that are correct:
 
@@ -56,8 +56,11 @@ Here is a comparision of the confusion matrices for each of the models:
 ![Confusion_Matrices.png](Resources/Confusion_Matrices.png)
 
 • TP: True Positive
+
 • FN: False Negative
+
 • FP: False Positive
+
 • TN: True Negative
 
 Here is a comparision of the average metrics from each of the imbalanced classification reports for each of the six models:
