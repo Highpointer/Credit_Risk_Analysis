@@ -60,6 +60,9 @@ Here is a comparision of the confusion matrices for each of the models:
 • FP: False Positive
 • TN: True Negative
 
+Here is a comparision of the average metrics from each of the imbalanced classification reports for each of the six models:
+
+![Average_Metrics.png](Resources/Average_Metrics.png)
 Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
 ## Summary of the results (2 points)
