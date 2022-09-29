@@ -63,7 +63,12 @@ Here is a comparision of the confusion matrices for each of the models:
 Here is a comparision of the average metrics from each of the imbalanced classification reports for each of the six models:
 
 ![Average_Metrics.png](Resources/Average_Metrics.png)
-Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+
+## Summary of the results
+
+The average precision score for all models was 99%. This was because the number of high-risk credit applications, relative to the number of low-risk credit applications, was small. The significant differences between the models appeared in the other metrics.  
+
+Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
 ## Summary of the results (2 points)
 ## Recommendation of which model to use (3 points)
